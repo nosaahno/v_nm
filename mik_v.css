@@ -1,0 +1,25 @@
+h1 {
+   font-family: 'Comic Sans'; 
+   font-weight:bold;
+}
+a:visited {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:link {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+  color: pink;
+  background-color: transparent;
+  text-decoration: underline;
+}
+h3{
+    position: relative;
+}
+a{
+    width: 200px !important;
+}
